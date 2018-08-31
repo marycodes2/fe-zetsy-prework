@@ -66,5 +66,5 @@ p {
 
 .small {
     font-size: 0.8em;
-    right: auto;
+    text-align: right;
 }
