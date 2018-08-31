@@ -62,7 +62,7 @@ p {
     border: 5px solid #ccc;
     padding: 1px;
     transition:background-color 0.5s ease;
-    border: #ccc;
+    background-color: #ccc;
 }
 
 .copywrite {
@@ -75,5 +75,5 @@ p {
 
 
 .press img:hover {
-  border: rgb(152, 173, 166);
+  background-color: green;
 }
