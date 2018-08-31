@@ -54,6 +54,7 @@ p {
   color: #555;
 }
 
-p > a:link {
-  color: blue;
+#featured a {
+    color: #1783bb;
+    text-decoration: none;
 }
