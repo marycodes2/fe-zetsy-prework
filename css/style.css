@@ -58,3 +58,8 @@ p {
     color: #1783bb;
     text-decoration: none;
 }
+
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
