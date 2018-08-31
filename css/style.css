@@ -75,5 +75,5 @@ p {
 
 
 .press img:hover {
-  background-color: green;
+  border: rgb(152, 173, 166);
 }
