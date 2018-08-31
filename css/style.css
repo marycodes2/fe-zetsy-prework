@@ -54,6 +54,6 @@ p {
   color: #555;
 }
 
-p + a:link {
+p > a:link {
   color: blue;
 }
