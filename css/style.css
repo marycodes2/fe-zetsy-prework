@@ -53,7 +53,7 @@ p {
   color: #555;
 }
 
-.featured {
+.url_in_p {
     color: #1783bb;
     text-decoration: none;
 }
@@ -62,7 +62,7 @@ p {
     border: 5px #ccc solid;
 }
 
-.small {
+.copywrite {
     font-size: 0.8em;
     color: #555;
     text-align: right;
