@@ -66,6 +66,7 @@ p {
 
 .small {
     font-size: 0.8em;
+    color: black;
     text-align: right;
     display: block;
     padding: 20px 0px 0px 0px ;
