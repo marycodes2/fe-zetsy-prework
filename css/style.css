@@ -54,7 +54,7 @@ p {
   color: #555;
 }
 
-#featured a {
+.featured {
     color: #1783bb;
     text-decoration: none;
 }
