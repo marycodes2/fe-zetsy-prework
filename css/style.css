@@ -63,3 +63,7 @@ p {
     border: 5px #ccc solid;
     padding: 0px;
 }
+
+.small {
+    font-size: 0.8em;
+}
